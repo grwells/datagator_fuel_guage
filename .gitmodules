@@ -1,0 +1,3 @@
+[submodule "Adafruit_MAX1704X"]
+	path = Adafruit_MAX1704X
+	url = https://github.com/adafruit/Adafruit_MAX1704X.git
